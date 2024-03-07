@@ -1,0 +1,7 @@
+C:\Users\nozom\source\repos\App2(CRUD)\App2(CRUD)\bin\Debug\App2(CRUD).exe.config
+C:\Users\nozom\source\repos\App2(CRUD)\App2(CRUD)\bin\Debug\App2(CRUD).exe
+C:\Users\nozom\source\repos\App2(CRUD)\App2(CRUD)\bin\Debug\App2(CRUD).pdb
+C:\Users\nozom\source\repos\App2(CRUD)\App2(CRUD)\obj\Debug\App2(CRUD).csproj.AssemblyReference.cache
+C:\Users\nozom\source\repos\App2(CRUD)\App2(CRUD)\obj\Debug\App2(CRUD).csproj.CoreCompileInputs.cache
+C:\Users\nozom\source\repos\App2(CRUD)\App2(CRUD)\obj\Debug\App2(CRUD).exe
+C:\Users\nozom\source\repos\App2(CRUD)\App2(CRUD)\obj\Debug\App2(CRUD).pdb

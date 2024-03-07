@@ -1,0 +1,7 @@
+C:\Users\nozom\source\repos\CrudApp2\CrudApp2\bin\Debug\CrudApp2.exe.config
+C:\Users\nozom\source\repos\CrudApp2\CrudApp2\bin\Debug\CrudApp2.exe
+C:\Users\nozom\source\repos\CrudApp2\CrudApp2\bin\Debug\CrudApp2.pdb
+C:\Users\nozom\source\repos\CrudApp2\CrudApp2\obj\Debug\CrudApp2.csproj.AssemblyReference.cache
+C:\Users\nozom\source\repos\CrudApp2\CrudApp2\obj\Debug\CrudApp2.csproj.CoreCompileInputs.cache
+C:\Users\nozom\source\repos\CrudApp2\CrudApp2\obj\Debug\CrudApp2.exe
+C:\Users\nozom\source\repos\CrudApp2\CrudApp2\obj\Debug\CrudApp2.pdb
